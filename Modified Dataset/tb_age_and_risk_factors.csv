@@ -1,4 +1,4 @@
-Country,Year,Code,tb_due_to_hiv,tb_due_to_alcohol,tb_due_to_smoking,tb_due_to_diabetes,tb_due_to_malnourishment,,,d 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, over 65 years
+Country,Year,Code,tb_due_to_hiv,tb_due_to_alcohol,tb_due_to_smoking,tb_due_to_diabetes,tb_due_to_malnourishment,0-4,May-15,16-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, over 65 years
 Andorra,2022,AND,,0,0,0,,0,0,0,9.841551,23.978899,0,0,0
 Antigua and Barbuda,2022,ATG,,0,,0,,0,0,0,0,0,7.4900756,0,0
 Barbados,2022,BRB,0,0,0,0,0,0,0,0,0,5.3743215,0,0,0
